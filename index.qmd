@@ -1,0 +1,17 @@
+---
+title: "Aprendizagem de máquina aplicada a análise DGA"
+subtitle: "TCC - Jade"
+author: "Raphael Barros Teixeira"
+date: last-modified
+lang: pt
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-title: "Nesta página"
+    number-sections: true
+    code-fold: true
+
+---
+
+# Introdução
